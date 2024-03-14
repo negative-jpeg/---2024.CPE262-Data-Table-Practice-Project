@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvWSpN2EkhdDS3q0dxtEjXsD9kS4OFIPxhD9AX+Zmy6fMQP+kMTjE/QFyc8Ep1UoPSJtqdZ1nFKhgNhxaKtcqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L23Y08W29\\Downloads\\Delgado_CPE262 Calculator Project\\bin\\WinFormsApp6 - App to Database Connection\\WinFormsApp6 - App to Database Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
